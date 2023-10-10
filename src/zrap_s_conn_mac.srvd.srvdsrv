@@ -1,0 +1,4 @@
+@EndUserText.label: 'Read-Only E2E: SD for Managing Flights'
+define service ZRAP_S_CONN_MAC {
+  expose ZRAP_R_CONN_MAC as Connection;
+}
